@@ -1,0 +1,5 @@
+	}
+	function uniswapDepositAddress() public pure returns (address) {
+		return 0x7A3779d85c64F8a3C3F55923c04780dee0091100;
+	}
+}
